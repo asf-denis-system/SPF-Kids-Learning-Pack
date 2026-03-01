@@ -65,25 +65,29 @@ Pack состоит из **7 частей** и общей карты.
 
 1. Прочитайте [00-pack-manifest.md](00-pack-manifest.md).
 2. Просмотрите [07-map/_map-template.md](07-map/_map-template.md) — архитектурную схему.
+3. Выберите трек: `дошкольный 3–6` ([03-methods/preschool/](03-methods/preschool/)) или `школьный 7–10` ([03-methods/school/](03-methods/school/)).
 
 ### День 1
 
 1. Прочитайте [01-domain-contract/01B-distinctions.md](01-domain-contract/01B-distinctions.md) — 8 различений **Z0–Z7**.
 2. Выберите один Z-принцип для старта (рекомендуется **Z2** или **Z0**) → [03-methods/00-index.md](03-methods/00-index.md).
-3. Прочитайте карточку эпизода для выбранного принципа.
+3. Прочитайте карточку эпизода для выбранного принципа из своего трека (`preschool/` или `school/`).
 
 ### Неделя 1 (3–4 эпизода)
 
 1. Используйте [03-methods/_method-card-template.md](03-methods/_method-card-template.md) как шаблон.
-2. Проводите эпизоды в выбранном контексте (ванная, кухня, игра, прогулка).
+2. Проводите эпизоды в выбранном контексте (ванная, кухня, игра, прогулка) с возрастной длительностью:
+   - `3–6`: обычно 5–7 минут
+   - `7–10`: обычно 10–15 минут
 3. Логируйте в [04-work-products/01-weekly-episode-log-template.md](04-work-products/01-weekly-episode-log-template.md).
 4. Посмотрите примеры в [04-work-products/03-episode-cards.md](04-work-products/03-episode-cards.md).
 
 ### Конец 4-й недели (итог месяца)
 
 1. Заполните [04-work-products/02-mastery-map-template.md](04-work-products/02-mastery-map-template.md).
-2. Напишите рефлексию в [04-work-products/04-adult-reflection-template.md](04-work-products/04-adult-reflection-template.md).
-3. Если видите «жёлтые флаги» — прочитайте [05-failure-modes/_failure-mode-template.md](05-failure-modes/_failure-mode-template.md).
+2. Для трека `7–10` дополнительно проверьте FP-гейт (перенос `версия→проверка`, сопоставимость условий, явный критерий).
+3. Напишите рефлексию в [04-work-products/04-adult-reflection-template.md](04-work-products/04-adult-reflection-template.md).
+4. Если видите «жёлтые флаги» — прочитайте [05-failure-modes/_failure-mode-template.md](05-failure-modes/_failure-mode-template.md).
 
 Это **не конец программы**, а конец одного месячного цикла по выбранному Z-принципу.
 
