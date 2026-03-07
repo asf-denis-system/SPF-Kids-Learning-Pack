@@ -1,4 +1,4 @@
-# WORKPLAN: kids-learning-pack
+# WORKPLAN: SPF-Kids-Learning-Pack
 
 > Рабочие продукты для репозитория Pack по детскому треку.
 > Период: W10 (2026-03-02..2026-03-08).
