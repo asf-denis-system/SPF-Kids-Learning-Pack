@@ -231,6 +231,7 @@ Pack состоит из **7 частей** и общей карты.
 
 ### Запуск и со-наставники
 
+* [04-work-products/10-weekly-loop-guide.md](04-work-products/10-weekly-loop-guide.md) — связка weekly-loop для взрослого-наставника
 * [04-work-products/05-week1-onboarding-checklist.md](04-work-products/05-week1-onboarding-checklist.md) — чек-лист запуска первой недели
 * [04-work-products/06-educator-onepager.md](04-work-products/06-educator-onepager.md) — памятка для воспитателя
 * [04-work-products/07-grandparents-onepager.md](04-work-products/07-grandparents-onepager.md) — памятка для бабушки/дедушки
